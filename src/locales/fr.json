@@ -1,0 +1,421 @@
+{
+  "common": {
+    "skip": "Passer",
+    "next": "Suivant",
+    "start": "Commencer maintenant",
+    "home": "Accueil",
+    "profile": "Mon compte",
+    "settings": "Paramètres",
+    "language": "Langue",
+    "arabic": "العربية",
+    "english": "English",
+    "changeExperience": "Changer d'expérience"
+  },
+  "onboarding": {
+    "title1": "Bienvenue sur Balagh",
+    "subtitle1": "Apprenez, lisez et découvrez l'Islam de manière amusante et simplifiée",
+    "description1": "Une application éducative islamique conçue pour vous aider, vous et vos enfants, à comprendre l'Islam de manière amusante et facile",
+    "title2": "Choisissez votre parcours d'apprentissage",
+    "subtitle2": "Balagh propose du contenu adapté à tous les âges, pour les enfants et les adultes",
+    "description2": "Choisissez entre une expérience interactive pour enfants pleine de jeux, ou une expérience pour adultes riche en contenu éducatif",
+    "kidsCardText": "Apprendre, Jouer, Découvrir",
+    "adultsCardText": "Lire, Demander, Apprendre",
+    "tooltipText": "Vous pouvez changer cela plus tard dans les paramètres",
+    "title3": "Commencez votre voyage",
+    "description3": "Apprenez, jouez et découvrez la beauté de l'Islam avec Balagh"
+  },
+  "experience": {
+    "selectExperience": "Choisissez votre expérience",
+    "whoWillUse": "Qui utilisera l'application ?",
+    "kids": "Enfants",
+    "kidsDescription": "Apprentissage amusant avec des jeux et des récompenses",
+    "adults": "Adultes",
+    "adultsDescription": "Contenu éducatif complet et connaissances approfondies",
+    "switchAnytime": "Vous pouvez basculer entre les expériences à tout moment",
+    "microText": "Choisissez l'expérience qui vous convient, vous pouvez la changer plus tard",
+    "confirmKids": "Voulez-vous continuer avec l'expérience Enfants ?",
+    "confirmAdults": "Voulez-vous continuer avec l'expérience Adultes ?",
+    "confirm": "Confirmer",
+    "cancel": "Annuler"
+  },
+  "adults": {
+    "greeting": "Assalamu Alaikum",
+    "welcome": "Bienvenue sur Balagh",
+    "homeHeader": "Bienvenue sur Balagh – Comprendre l'Islam facilement",
+    "homeSubtitle": "Explorez, apprenez et comprenez l'Islam de manière claire et simple",
+    "searchPlaceholder": "Rechercher un verset, un hadith ou un sujet...",
+    "askBalegh": "Demander à Balegh",
+    "askBalaghAbout": "Demander à Balegh à propos de cet article",
+    "smartAssistant": "Votre assistant intelligent",
+    "giftBook": "Offrir un livre",
+    "shareKnowledge": "Partager la connaissance",
+    "exploreContent": "Explorer le contenu",
+    "myLibrary": "Ma bibliothèque",
+    "recommendAsGift": "Recommander comme cadeau",
+    "todayRecommendations": "Contenu d'aujourd'hui",
+    "recommended": "Recommandé",
+    "quickAccess": "Accès rapide",
+    "savedContent": "Contenu enregistré",
+    "sendGift": "Envoyer un cadeau",
+    "categories": {
+      "quran": {
+        "title": "Le Saint Coran",
+        "subtitle": "Traduction • Tafsir • Significations"
+      },
+      "hadith": {
+        "title": "Hadiths prophétiques",
+        "subtitle": "Rechercher des hadiths authentiques"
+      },
+      "newmuslim": {
+        "title": "Comprendre l'Islam pour les nouveaux musulmans",
+        "subtitle": "Livres • Apprendre la religion • Guide du nouveau musulman • Biographie du Prophète"
+      },
+      "library": {
+        "title": "Bibliothèque de contenu islamique",
+        "subtitle": "Sunnah • Aqeedah • Fiqh • Éthique • Vertus • Péchés majeurs • Articles"
+      },
+      "balegh": {
+        "title": "Demander à Balegh 🤖",
+        "subtitle": "Votre assistant intelligent pour répondre aux questions"
+      }
+    },
+    "navbar": {
+      "home": "Accueil",
+      "library": "Bibliothèque",
+      "balegh": "Balegh",
+      "profile": "Profil"
+    },
+    "profile": {
+      "memberSince": "Membre depuis Ramadan 1445",
+      "giftsSent": "Cadeaux envoyés",
+      "giftsReceived": "Cadeaux reçus",
+      "giftsReceivedDesc": "Vous avez des cadeaux de vos amis. Vérifiez vos notifications pour les voir.",
+      "saved": "Enregistré",
+      "savedContent": "Contenu enregistré",
+      "noSavedContent": "Aucun contenu enregistré pour le moment. Commencez à enregistrer vos articles et livres préférés.",
+      "article": "Article",
+      "book": "Livre",
+      "readingHistory": "Historique de lecture",
+      "achievements": "Réalisations",
+      "locked": "Verrouillé",
+      "parentView": "Vue parent",
+      "childrenProfiles": "Profils des enfants",
+      "yearsOld": "ans"
+    },
+    "category": {
+      "filters": "Filtres",
+      "sort": "Trier",
+      "filterByType": "Filtrer par type",
+      "filterByLevel": "Filtrer par niveau",
+      "article": "Article",
+      "book": "Livre",
+      "beginner": "Débutant",
+      "intermediate": "Intermédiaire",
+      "advanced": "Avancé",
+      "saved": "Enregistré",
+      "recommended": "Recommandé",
+      "miniArticles": "Mini Articles"
+    },
+    "article": {
+      "readingMode": "Mode lecture",
+      "fontSize": "Taille de la police",
+      "summary": "Résumé",
+      "keyPoints": "Points clés",
+      "relatedContent": "Contenu connexe"
+    },
+    "chat": {
+      "suggestedQuestions": "Questions suggérées",
+      "bookmark": "Marquer",
+      "bookmarked": "Marqué",
+      "saved": "Chat enregistré"
+    },
+    "gift": {
+      "title": "Offrir la connaissance",
+      "subtitle": "Partagez des connaissances bénéfiques avec ceux que vous aimez",
+      "selectContent": "Choisir un livre ou un article",
+      "selectRecipient": "Choisir le destinataire",
+      "addMessage": "Ajouter un message (optionnel)",
+      "messagePlaceholder": "Écrire un message au destinataire...",
+      "send": "Envoyer le cadeau",
+      "sent": "Cadeau envoyé avec succès !",
+      "sentDesc": "Le destinataire sera notifié de votre cadeau",
+      "success": "Cadeau envoyé !",
+      "successDesc": "Qu'Allah vous récompense pour avoir répandu des connaissances bénéfiques",
+      "backToHome": "Retour à l'accueil",
+      "preview": "Aperçu du cadeau",
+      "scheduleDelivery": "Planifier la livraison",
+      "optional": "Optionnel",
+      "all": "Tous",
+      "family": "Famille",
+      "friends": "Amis",
+      "contacts": "Contacts"
+    }
+  },
+  "kids": {
+    "greeting": "Bonjour Champion ! 🌟",
+    "letsLearn": "Apprenons et jouons",
+    "level": "Niveau",
+    "stars": "étoiles",
+    "starsToNext": "étoiles pour le niveau suivant",
+    "dailyTask": "Tâche quotidienne",
+    "startTask": "Commencer la tâche 🚀",
+    "whatToLearnToday": "Que souhaitez-vous apprendre aujourd'hui ?",
+    "chooseGame": "Choisir un jeu 🎮",
+    "balaghWelcome": {
+      "title": "Bonjour ! Je suis Balegh",
+      "message": "Bonjour ! Je suis Balegh, ton ami qui t'aidera à apprendre et à faire le bien 🌟"
+    },
+    "categories": {
+      "beautifulValues": "Belles valeurs",
+      "beautifulValuesSub": "Apprendre de bonnes qualités",
+      "bedtimeStories": "Histoires du soir",
+      "bedtimeStoriesSub": "Belles histoires avant de dormir",
+      "quranSimple": "Le Coran simplement",
+      "quranSimpleSub": "Apprendre le Coran facilement",
+      "easyHadith": "Hadith facile",
+      "easyHadithSub": "Paroles prophétiques simples",
+      "howToBehave": "Comment dois-je me comporter ?",
+      "howToBehaveSub": "Apprendre le bon comportement",
+      "learnToday": "Apprendre aujourd'hui",
+      "learnTodaySub": "Nouvelle leçon chaque jour",
+      "prophets": "Histoires de héros",
+      "values": "Bonté et bonnes valeurs",
+      "questions": "Apprendre ensemble",
+      "knowgod": "Émerveillement et gratitude",
+      "muslim": "Être bon",
+      "askBalegh": "Demander à Balegh",
+      "askBaleghSubtext": "Comprend et répond simplement 😊",
+      "newBadge": "Nouveau ✨"
+    },
+    "category": {
+      "selectDifficulty": "Sélectionner le niveau de difficulté",
+      "easy": "Facile",
+      "medium": "Moyen",
+      "hard": "Difficile",
+      "questionsPreview": "Tu répondras à",
+      "questions": "questions",
+      "startPlaying": "Commencer à jouer 🎮",
+      "readAndLearn": "📘 Lire et apprendre",
+      "readMore": "Lire plus",
+      "playGames": "🎮 Jouer"
+    },
+    "article": {
+      "askBalegh": "🤖 Tu ne comprends pas ? Demande à Balegh",
+      "audioMode": "Écouter 🔊",
+      "encouragement": "Bien joué ! Chaque jour tu apprends quelque chose de nouveau 💛",
+      "activityQuestion": "Que ferais-tu si tu voyais ton ami triste ?",
+      "activityOption1": "L'aider",
+      "activityOption2": "L'ignorer",
+      "activityOption3": "Rire"
+    },
+    "question": {
+      "nextQuestion": "Question suivante",
+      "correctAnswer": "Correct ! Excellent ! 🎉",
+      "wrongAnswer": "Réessaye ! 💪",
+      "hint": "Indice"
+    },
+    "achievement": {
+      "congratulations": "Félicitations ! Tu as gagné un nouveau badge 🏆",
+      "continuePlaying": "Continuer à jouer"
+    },
+    "profile": {
+      "editAvatar": "✏️ Changer ton apparence",
+      "weeklyProgress": "Ton progrès cette semaine 🌱",
+      "starsCount": "Étoiles",
+      "badgesCount": "Badges",
+      "baleghQuestions": "Questions de Balegh",
+      "achievements": "Réalisations",
+      "favoriteTopics": "Mes sujets préférés",
+      "curiosityBadge": "Badge de curiosité",
+      "parentsArea": "👨‍👩‍👧 Zone parents",
+      "childName": "Nom de l'enfant",
+      "encouragingMessages": {
+        "great": "Super ! Tu progresses excellemment ! 🌟",
+        "good": "Bien ! Continue d'apprendre ! ⭐",
+        "keepGoing": "Continue ! Tu es sur la bonne voie ! 💪"
+      },
+      "lockedBadgeHint": "Complète plus pour débloquer",
+      "badges": {
+        "kindFriend": "Ami gentil",
+        "loverOfGood": "Amoureux du bien",
+        "honest": "Honnête",
+        "cooperative": "Coopératif"
+      }
+    },
+    "parentZone": {
+      "title": "Zone parents 👨‍👩‍👧",
+      "subtitle": "Suivez les progrès de votre enfant et soyez rassuré sur le contenu",
+      "childOverview": "Aperçu de l'enfant",
+      "childName": "Nom de l'enfant",
+      "age": "Âge",
+      "years": "ans",
+      "activeDays": "Jours actifs",
+      "days": "jours",
+      "learningSummary": "Résumé de l'apprentissage",
+      "activities": "Activité",
+      "dailyLearningSummary": "Résumé d'apprentissage quotidien",
+      "valuesLearned": "Valeurs apprises",
+      "timeSpent": "Temps passé",
+      "languageUsed": "Langue utilisée",
+      "contentCategories": "Catégories de contenu",
+      "parentGate": "Entrer le mot de passe",
+      "parentGatePlaceholder": "Mot de passe",
+      "parentGateSubmit": "Entrer",
+      "parentGateError": "Mot de passe incorrect",
+      "safety": {
+        "title": "Sécurité du contenu",
+        "ageAppropriate": "Toutes les réponses sont adaptées à l'âge et simplifiées pour les enfants",
+        "noSensitive": "Nous ne montrons pas de contenu sensible ou complexe",
+        "trustMessage": "Nous garantissons un environnement sûr et confortable pour l'apprentissage de votre enfant"
+      },
+      "preferences": "Préférences",
+      "dailyUsage": "Temps d'utilisation quotidien",
+      "preferredContent": "Contenu préféré",
+      "selectChildAge": "Sélectionner l'âge de l'enfant",
+      "enableAskBalegh": "Activer Demander à Balegh",
+      "selectLanguage": "Sélectionner la langue",
+      "selectContentTypes": "Sélectionner les types de contenu autorisés",
+      "feedback": "Partagez vos commentaires sur l'expérience de votre enfant"
+    },
+    "baleghChat": {
+      "title": "🤖 Demander à Balegh",
+      "subtitle": "Pose une question simple, et Balegh te comprendra",
+      "askQuestion": "Poser une question",
+      "suggestedQuestions": {
+        "prophets": [
+          "Qui était Noé ?",
+          "Pourquoi Abraham était-il courageux ?",
+          "Comment quelqu'un a-t-il aidé les gens à s'échapper ?"
+        ],
+        "values": [
+          "Que signifie l'honnêteté ?",
+          "Pourquoi devrions-nous aider les gens ?",
+          "Comment puis-je être gentil ?"
+        ],
+        "questions": [
+          "Quelles sont les bonnes habitudes ?",
+          "Pourquoi aidons-nous les autres ?",
+          "Qu'est-ce qui fait un bon ami ?"
+        ],
+        "knowgod": [
+          "Qui a créé le monde ?",
+          "Pourquoi devrions-nous être reconnaissants ?",
+          "Comment pouvons-nous montrer de la gentillesse ?"
+        ],
+        "muslim": [
+          "Que signifie être bon ?",
+          "Quelles belles choses pouvons-nous faire ?",
+          "Comment puis-je aider les autres ?"
+        ]
+      },
+      "complexQuestion": "C'est une question intéressante ! 😊 Essaie de poser une question plus simple, comme des histoires sur la gentillesse ou l'aide aux autres 💝",
+      "playQuestionCTA": "Tu veux jouer à une question ? 🎮"
+    },
+    "navbar": {
+      "home": "Accueil",
+      "games": "Jouer",
+      "achievements": "Réalisations",
+      "profile": "Profil"
+    }
+  },
+  "languageSelection": {
+    "title": "Choisir la langue 🌍",
+    "canChangeLater": "Vous pouvez changer la langue plus tard",
+    "continue": "Continuer"
+  },
+  "auth": {
+    "welcome": {
+      "tagline": "Balagh… Un espace sûr pour apprendre l'Islam pour vous et vos enfants",
+      "signUp": "Créer un compte",
+      "login": "Se connecter"
+    },
+    "signUp": {
+      "title": "Créer un compte",
+      "subtitle": "Un compte… Plusieurs expériences pour vous et vos enfants",
+      "name": "Nom",
+      "email": "E-mail",
+      "password": "Mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "language": "Langue",
+      "createAccount": "Créer le compte",
+      "alreadyHaveAccount": "Vous avez déjà un compte ? Se connecter",
+      "microCopy": "Un compte… Plusieurs expériences pour vous et vos enfants"
+    },
+    "login": {
+      "title": "Se connecter",
+      "subtitle": "Bon retour",
+      "email": "E-mail",
+      "password": "Mot de passe",
+      "forgotPassword": "Mot de passe oublié ?",
+      "loginButton": "Se connecter",
+      "continueWithGoogle": "Continuer avec Google",
+      "continueWithApple": "Continuer avec Apple",
+      "noAccount": "Vous n'avez pas de compte ? Créer un compte",
+      "or": "ou"
+    },
+    "setup": {
+      "addChild": {
+        "title": "Ajouter un profil enfant",
+        "subtitle": "Ajoutez les informations de votre enfant pour commencer",
+        "childName": "Nom de l'enfant",
+        "age": "Âge",
+        "selectAvatar": "Sélectionner un avatar",
+        "addChild": "Ajouter l'enfant",
+        "addAnother": "Ajouter un autre enfant",
+        "skip": "Passer pour l'instant",
+        "securityMessage": "Contenu sûr et adapté à l'âge",
+        "securitySubMessage": "L'enfant ne peut pas quitter ou modifier les paramètres"
+      },
+      "preferences": {
+        "title": "Préférences des parents",
+        "subtitle": "Choisissez les paramètres appropriés pour votre enfant",
+        "childLanguage": "Langue principale de l'enfant",
+        "askBalegh": "Demander à Balegh",
+        "askBaleghDesc": "Activer l'assistant intelligent pour les enfants",
+        "sound": "Son",
+        "soundDesc": "Activer les sons et effets",
+        "bedtimeStories": "Histoires du soir",
+        "bedtimeStoriesDesc": "Activer les histoires audio",
+        "continue": "Continuer",
+        "securityMessage": "Contenu sûr et adapté à l'âge",
+        "securitySubMessage": "L'enfant ne peut pas quitter ou modifier les paramètres"
+      }
+    },
+    "validation": {
+      "nameMin": "Le nom doit contenir au moins 2 caractères",
+      "emailInvalid": "Adresse e-mail invalide",
+      "passwordMin": "Le mot de passe doit contenir au moins 6 caractères",
+      "passwordRequired": "Veuillez entrer le mot de passe",
+      "passwordMismatch": "Les mots de passe ne correspondent pas",
+      "childNameMin": "Le nom de l'enfant doit contenir au moins 2 caractères",
+      "ageRequired": "Veuillez sélectionner l'âge",
+      "avatarRequired": "Veuillez sélectionner un avatar",
+      "namePlaceholder": "Entrez votre nom complet",
+      "childNamePlaceholder": "Entrez le nom de l'enfant",
+      "selectLanguage": "Sélectionner la langue",
+      "selectAge": "Sélectionner l'âge",
+      "creating": "Création...",
+      "loggingIn": "Connexion...",
+      "adding": "Ajout...",
+      "saving": "Enregistrement...",
+      "sending": "Envoi..."
+    },
+    "forgotPassword": {
+      "title": "Mot de passe oublié ?",
+      "subtitle": "Entrez votre e-mail pour réinitialiser votre mot de passe",
+      "email": "E-mail",
+      "sendResetLink": "Envoyer le lien de réinitialisation",
+      "backToLogin": "Retour à la connexion",
+      "linkSent": "Lien envoyé",
+      "checkEmail": "Vérifiez votre e-mail pour réinitialiser votre mot de passe"
+    }
+  },
+  "audio": {
+    "play": "Lire",
+    "pause": "Pause",
+    "mute": "Muet",
+    "unmute": "Activer le son",
+    "notSupported": "La lecture audio n'est pas prise en charge dans votre navigateur"
+  }
+}
+

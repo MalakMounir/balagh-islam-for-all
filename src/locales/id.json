@@ -1,0 +1,421 @@
+{
+  "common": {
+    "skip": "Lewati",
+    "next": "Berikutnya",
+    "start": "Mulai Sekarang",
+    "home": "Beranda",
+    "profile": "Akun Saya",
+    "settings": "Pengaturan",
+    "language": "Bahasa",
+    "arabic": "العربية",
+    "english": "English",
+    "changeExperience": "Ubah Pengalaman"
+  },
+  "onboarding": {
+    "title1": "Selamat Datang di Balagh",
+    "subtitle1": "Belajar, baca, dan temukan Islam dengan cara yang menyenangkan dan sederhana",
+    "description1": "Aplikasi pendidikan Islam yang dirancang untuk membantu Anda dan anak-anak Anda memahami Islam dengan cara yang menyenangkan dan mudah",
+    "title2": "Pilih Perjalanan Belajar Anda",
+    "subtitle2": "Balagh menawarkan konten yang sesuai untuk setiap kelompok umur, untuk anak-anak dan dewasa",
+    "description2": "Pilih antara pengalaman anak-anak yang interaktif penuh dengan permainan, atau pengalaman dewasa yang kaya dengan konten edukatif",
+    "kidsCardText": "Belajar, Bermain, Temukan",
+    "adultsCardText": "Baca, Tanya, Belajar",
+    "tooltipText": "Anda dapat mengubah ini nanti dari pengaturan",
+    "title3": "Mulai Perjalanan Anda",
+    "description3": "Belajar, bermain, dan temukan keindahan Islam dengan Balagh"
+  },
+  "experience": {
+    "selectExperience": "Pilih Pengalaman Anda",
+    "whoWillUse": "Siapa yang akan menggunakan aplikasi?",
+    "kids": "Anak-anak",
+    "kidsDescription": "Belajar menyenangkan dengan permainan dan hadiah",
+    "adults": "Dewasa",
+    "adultsDescription": "Konten edukatif komprehensif dan pengetahuan mendalam",
+    "switchAnytime": "Anda dapat beralih antar pengalaman kapan saja",
+    "microText": "Pilih pengalaman yang sesuai untuk Anda, Anda dapat mengubahnya nanti",
+    "confirmKids": "Apakah Anda ingin melanjutkan dengan pengalaman Anak-anak?",
+    "confirmAdults": "Apakah Anda ingin melanjutkan dengan pengalaman Dewasa?",
+    "confirm": "Konfirmasi",
+    "cancel": "Batal"
+  },
+  "adults": {
+    "greeting": "Assalamu Alaikum",
+    "welcome": "Selamat Datang di Balagh",
+    "homeHeader": "Selamat Datang di Balagh – Memahami Islam dengan Mudah",
+    "homeSubtitle": "Jelajahi, pelajari, dan pahami Islam dengan cara yang jelas dan sederhana",
+    "searchPlaceholder": "Cari ayat, hadits, atau topik...",
+    "askBalegh": "Tanya Balegh",
+    "askBalaghAbout": "Tanya Balegh Tentang Artikel Ini",
+    "smartAssistant": "Asisten pintar Anda",
+    "giftBook": "Hadiahkan Buku",
+    "shareKnowledge": "Bagikan pengetahuan",
+    "exploreContent": "Jelajahi Konten",
+    "myLibrary": "Perpustakaan Saya",
+    "recommendAsGift": "Rekomendasikan sebagai Hadiah",
+    "todayRecommendations": "Konten Hari Ini",
+    "recommended": "Direkomendasikan",
+    "quickAccess": "Akses Cepat",
+    "savedContent": "Konten Tersimpan",
+    "sendGift": "Kirim Hadiah",
+    "categories": {
+      "quran": {
+        "title": "Al-Quran Suci",
+        "subtitle": "Terjemahan • Tafsir • Makna"
+      },
+      "hadith": {
+        "title": "Hadits Nabi",
+        "subtitle": "Cari hadits yang otentik"
+      },
+      "newmuslim": {
+        "title": "Memahami Islam untuk Muslim Baru",
+        "subtitle": "Buku • Belajar Agama • Panduan Muslim Baru • Biografi Nabi"
+      },
+      "library": {
+        "title": "Perpustakaan Konten Islam",
+        "subtitle": "Sunnah • Aqidah • Fikih • Etika • Keutamaan • Dosa Besar • Artikel"
+      },
+      "balegh": {
+        "title": "Tanya Balegh 🤖",
+        "subtitle": "Asisten pintar Anda untuk menjawab pertanyaan"
+      }
+    },
+    "navbar": {
+      "home": "Beranda",
+      "library": "Perpustakaan",
+      "balegh": "Balegh",
+      "profile": "Profil"
+    },
+    "profile": {
+      "memberSince": "Anggota sejak Ramadhan 1445",
+      "giftsSent": "Hadiah Terkirim",
+      "giftsReceived": "Hadiah Diterima",
+      "giftsReceivedDesc": "Anda memiliki hadiah dari teman-teman Anda. Periksa notifikasi Anda untuk melihatnya.",
+      "saved": "Tersimpan",
+      "savedContent": "Konten Tersimpan",
+      "noSavedContent": "Belum ada konten tersimpan. Mulai simpan artikel dan buku favorit Anda.",
+      "article": "Artikel",
+      "book": "Buku",
+      "readingHistory": "Riwayat Membaca",
+      "achievements": "Pencapaian",
+      "locked": "Terkunci",
+      "parentView": "Tampilan Orang Tua",
+      "childrenProfiles": "Profil Anak",
+      "yearsOld": "tahun"
+    },
+    "category": {
+      "filters": "Filter",
+      "sort": "Urutkan",
+      "filterByType": "Filter berdasarkan Jenis",
+      "filterByLevel": "Filter berdasarkan Level",
+      "article": "Artikel",
+      "book": "Buku",
+      "beginner": "Pemula",
+      "intermediate": "Menengah",
+      "advanced": "Lanjutan",
+      "saved": "Tersimpan",
+      "recommended": "Direkomendasikan",
+      "miniArticles": "Artikel Mini"
+    },
+    "article": {
+      "readingMode": "Mode Membaca",
+      "fontSize": "Ukuran Font",
+      "summary": "Ringkasan",
+      "keyPoints": "Poin Utama",
+      "relatedContent": "Konten Terkait"
+    },
+    "chat": {
+      "suggestedQuestions": "Pertanyaan yang Disarankan",
+      "bookmark": "Bookmark",
+      "bookmarked": "Dibookmark",
+      "saved": "Chat tersimpan"
+    },
+    "gift": {
+      "title": "Hadiahkan Pengetahuan",
+      "subtitle": "Bagikan pengetahuan yang bermanfaat dengan orang yang Anda cintai",
+      "selectContent": "Pilih buku atau artikel",
+      "selectRecipient": "Pilih penerima",
+      "addMessage": "Tambahkan pesan (opsional)",
+      "messagePlaceholder": "Tulis pesan untuk penerima...",
+      "send": "Kirim Hadiah",
+      "sent": "Hadiah berhasil dikirim!",
+      "sentDesc": "Penerima akan diberitahu tentang hadiah Anda",
+      "success": "Hadiah terkirim!",
+      "successDesc": "Semoga Allah membalas Anda karena menyebarkan pengetahuan yang bermanfaat",
+      "backToHome": "Kembali ke Beranda",
+      "preview": "Pratinjau Hadiah",
+      "scheduleDelivery": "Jadwalkan Pengiriman",
+      "optional": "Opsional",
+      "all": "Semua",
+      "family": "Keluarga",
+      "friends": "Teman",
+      "contacts": "Kontak"
+    }
+  },
+  "kids": {
+    "greeting": "Halo Juara! 🌟",
+    "letsLearn": "Mari belajar dan bermain",
+    "level": "Level",
+    "stars": "bintang",
+    "starsToNext": "bintang ke level berikutnya",
+    "dailyTask": "Tugas Harian",
+    "startTask": "Mulai Tugas 🚀",
+    "whatToLearnToday": "Apa yang ingin kamu pelajari hari ini?",
+    "chooseGame": "Pilih Permainan 🎮",
+    "balaghWelcome": {
+      "title": "Halo! Saya Balegh",
+      "message": "Halo! Saya Balegh, temanmu yang akan membantumu belajar dan berbuat baik 🌟"
+    },
+    "categories": {
+      "beautifulValues": "Nilai-nilai Indah",
+      "beautifulValuesSub": "Pelajari kualitas baik",
+      "bedtimeStories": "Cerita Sebelum Tidur",
+      "bedtimeStoriesSub": "Cerita manis sebelum tidur",
+      "quranSimple": "Al-Quran Sederhana",
+      "quranSimpleSub": "Pelajari Al-Quran dengan mudah",
+      "easyHadith": "Hadits Mudah",
+      "easyHadithSub": "Perkataan Nabi yang sederhana",
+      "howToBehave": "Bagaimana Saya Harus Berperilaku?",
+      "howToBehaveSub": "Pelajari perilaku yang baik",
+      "learnToday": "Belajar Hari Ini",
+      "learnTodaySub": "Pelajaran baru setiap hari",
+      "prophets": "Kisah Para Pahlawan",
+      "values": "Kebaikan & Nilai-nilai Baik",
+      "questions": "Belajar Bersama",
+      "knowgod": "Kekaguman & Rasa Syukur",
+      "muslim": "Menjadi Baik",
+      "askBalegh": "Tanya Balegh",
+      "askBaleghSubtext": "Memahami dan menjawab dengan sederhana 😊",
+      "newBadge": "Baru ✨"
+    },
+    "category": {
+      "selectDifficulty": "Pilih Tingkat Kesulitan",
+      "easy": "Mudah",
+      "medium": "Sedang",
+      "hard": "Sulit",
+      "questionsPreview": "Kamu akan menjawab",
+      "questions": "pertanyaan",
+      "startPlaying": "Mulai Bermain 🎮",
+      "readAndLearn": "📘 Baca dan Pelajari",
+      "readMore": "Baca Lebih Lanjut",
+      "playGames": "🎮 Bermain"
+    },
+    "article": {
+      "askBalegh": "🤖 Tidak mengerti? Tanya Balegh",
+      "audioMode": "Dengarkan 🔊",
+      "encouragement": "Bagus! Setiap hari kamu belajar sesuatu yang baru 💛",
+      "activityQuestion": "Apa yang akan kamu lakukan jika melihat temanmu sedih?",
+      "activityOption1": "Membantu mereka",
+      "activityOption2": "Mengabaikan mereka",
+      "activityOption3": "Tertawa"
+    },
+    "question": {
+      "nextQuestion": "Pertanyaan Berikutnya",
+      "correctAnswer": "Benar! Luar biasa! 🎉",
+      "wrongAnswer": "Coba lagi! 💪",
+      "hint": "Petunjuk"
+    },
+    "achievement": {
+      "congratulations": "Selamat! Kamu mendapatkan lencana baru 🏆",
+      "continuePlaying": "Lanjutkan Bermain"
+    },
+    "profile": {
+      "editAvatar": "✏️ Ubah Penampilanmu",
+      "weeklyProgress": "Kemajuanmu Minggu Ini 🌱",
+      "starsCount": "Bintang",
+      "badgesCount": "Lencana",
+      "baleghQuestions": "Pertanyaan Balegh",
+      "achievements": "Pencapaian",
+      "favoriteTopics": "Topik Favoritku",
+      "curiosityBadge": "Lencana Rasa Ingin Tahu",
+      "parentsArea": "👨‍👩‍👧 Area Orang Tua",
+      "childName": "Nama Anak",
+      "encouragingMessages": {
+        "great": "Hebat! Kamu berkembang dengan sangat baik! 🌟",
+        "good": "Bagus! Terus belajar! ⭐",
+        "keepGoing": "Teruskan! Kamu berada di jalur yang benar! 💪"
+      },
+      "lockedBadgeHint": "Selesaikan lebih banyak untuk membuka",
+      "badges": {
+        "kindFriend": "Teman yang Baik",
+        "loverOfGood": "Pencinta Kebaikan",
+        "honest": "Jujur",
+        "cooperative": "Kooperatif"
+      }
+    },
+    "parentZone": {
+      "title": "Zona Orang Tua 👨‍👩‍👧",
+      "subtitle": "Lacak kemajuan anak Anda dan pastikan kontennya aman",
+      "childOverview": "Ringkasan Anak",
+      "childName": "Nama Anak",
+      "age": "Usia",
+      "years": "tahun",
+      "activeDays": "Hari Aktif",
+      "days": "hari",
+      "learningSummary": "Ringkasan Pembelajaran",
+      "activities": "Aktivitas",
+      "dailyLearningSummary": "Ringkasan Pembelajaran Harian",
+      "valuesLearned": "Nilai yang Dipelajari",
+      "timeSpent": "Waktu yang Dihabiskan",
+      "languageUsed": "Bahasa yang Digunakan",
+      "contentCategories": "Kategori Konten",
+      "parentGate": "Masukkan Kata Sandi",
+      "parentGatePlaceholder": "Kata Sandi",
+      "parentGateSubmit": "Masuk",
+      "parentGateError": "Kata sandi salah",
+      "safety": {
+        "title": "Keamanan Konten",
+        "ageAppropriate": "Semua jawaban sesuai usia dan disederhanakan untuk anak-anak",
+        "noSensitive": "Kami tidak menampilkan konten sensitif atau kompleks",
+        "trustMessage": "Kami memastikan lingkungan yang aman dan nyaman untuk pembelajaran anak Anda"
+      },
+      "preferences": "Preferensi",
+      "dailyUsage": "Waktu Penggunaan Harian",
+      "preferredContent": "Konten Pilihan",
+      "selectChildAge": "Pilih Usia Anak",
+      "enableAskBalegh": "Aktifkan Tanya Balegh",
+      "selectLanguage": "Pilih Bahasa",
+      "selectContentTypes": "Pilih Jenis Konten yang Diizinkan",
+      "feedback": "Bagikan umpan balik Anda tentang pengalaman anak Anda"
+    },
+    "baleghChat": {
+      "title": "🤖 Tanya Balegh",
+      "subtitle": "Ajukan pertanyaan sederhana, dan Balegh akan memahamimu",
+      "askQuestion": "Ajukan pertanyaan",
+      "suggestedQuestions": {
+        "prophets": [
+          "Siapa Nuh?",
+          "Mengapa Ibrahim berani?",
+          "Bagaimana seseorang membantu orang melarikan diri?"
+        ],
+        "values": [
+          "Apa arti kejujuran?",
+          "Mengapa kita harus membantu orang?",
+          "Bagaimana saya bisa baik?"
+        ],
+        "questions": [
+          "Apa kebiasaan baik?",
+          "Mengapa kita membantu orang lain?",
+          "Apa yang membuat teman yang baik?"
+        ],
+        "knowgod": [
+          "Siapa yang menciptakan dunia?",
+          "Mengapa kita harus bersyukur?",
+          "Bagaimana kita bisa menunjukkan kebaikan?"
+        ],
+        "muslim": [
+          "Apa artinya menjadi baik?",
+          "Hal baik apa yang bisa kita lakukan?",
+          "Bagaimana saya bisa membantu orang lain?"
+        ]
+      },
+      "complexQuestion": "Itu pertanyaan yang menarik! 😊 Coba tanyakan tentang sesuatu yang lebih sederhana, seperti cerita tentang menjadi baik atau membantu orang lain 💝",
+      "playQuestionCTA": "Ingin bermain pertanyaan? 🎮"
+    },
+    "navbar": {
+      "home": "Beranda",
+      "games": "Bermain",
+      "achievements": "Pencapaian",
+      "profile": "Profil"
+    }
+  },
+  "languageSelection": {
+    "title": "Pilih Bahasa 🌍",
+    "canChangeLater": "Anda dapat mengubah bahasa nanti",
+    "continue": "Lanjutkan"
+  },
+  "auth": {
+    "welcome": {
+      "tagline": "Balagh… Ruang aman untuk belajar Islam untuk Anda dan anak-anak Anda",
+      "signUp": "Buat Akun",
+      "login": "Masuk"
+    },
+    "signUp": {
+      "title": "Buat Akun",
+      "subtitle": "Satu akun… Berbagai pengalaman untuk Anda dan anak-anak Anda",
+      "name": "Nama",
+      "email": "Email",
+      "password": "Kata Sandi",
+      "confirmPassword": "Konfirmasi Kata Sandi",
+      "language": "Bahasa",
+      "createAccount": "Buat Akun",
+      "alreadyHaveAccount": "Sudah punya akun? Masuk",
+      "microCopy": "Satu akun… Berbagai pengalaman untuk Anda dan anak-anak Anda"
+    },
+    "login": {
+      "title": "Masuk",
+      "subtitle": "Selamat datang kembali",
+      "email": "Email",
+      "password": "Kata Sandi",
+      "forgotPassword": "Lupa kata sandi?",
+      "loginButton": "Masuk",
+      "continueWithGoogle": "Lanjutkan dengan Google",
+      "continueWithApple": "Lanjutkan dengan Apple",
+      "noAccount": "Tidak punya akun? Buat Akun",
+      "or": "atau"
+    },
+    "setup": {
+      "addChild": {
+        "title": "Tambah Profil Anak",
+        "subtitle": "Tambahkan informasi anak Anda untuk memulai",
+        "childName": "Nama Anak",
+        "age": "Usia",
+        "selectAvatar": "Pilih Avatar",
+        "addChild": "Tambah Anak",
+        "addAnother": "Tambah Anak Lain",
+        "skip": "Lewati Sekarang",
+        "securityMessage": "Konten aman dan sesuai usia",
+        "securitySubMessage": "Anak tidak dapat keluar atau mengubah pengaturan"
+      },
+      "preferences": {
+        "title": "Preferensi Orang Tua",
+        "subtitle": "Pilih pengaturan yang sesuai untuk anak Anda",
+        "childLanguage": "Bahasa Utama Anak",
+        "askBalegh": "Tanya Balegh",
+        "askBaleghDesc": "Aktifkan asisten pintar untuk anak-anak",
+        "sound": "Suara",
+        "soundDesc": "Aktifkan suara dan efek",
+        "bedtimeStories": "Cerita Sebelum Tidur",
+        "bedtimeStoriesDesc": "Aktifkan cerita audio",
+        "continue": "Lanjutkan",
+        "securityMessage": "Konten aman dan sesuai usia",
+        "securitySubMessage": "Anak tidak dapat keluar atau mengubah pengaturan"
+      }
+    },
+    "validation": {
+      "nameMin": "Nama harus minimal 2 karakter",
+      "emailInvalid": "Alamat email tidak valid",
+      "passwordMin": "Kata sandi harus minimal 6 karakter",
+      "passwordRequired": "Silakan masukkan kata sandi",
+      "passwordMismatch": "Kata sandi tidak cocok",
+      "childNameMin": "Nama anak harus minimal 2 karakter",
+      "ageRequired": "Silakan pilih usia",
+      "avatarRequired": "Silakan pilih avatar",
+      "namePlaceholder": "Masukkan nama lengkap Anda",
+      "childNamePlaceholder": "Masukkan nama anak",
+      "selectLanguage": "Pilih bahasa",
+      "selectAge": "Pilih usia",
+      "creating": "Membuat...",
+      "loggingIn": "Masuk...",
+      "adding": "Menambahkan...",
+      "saving": "Menyimpan...",
+      "sending": "Mengirim..."
+    },
+    "forgotPassword": {
+      "title": "Lupa kata sandi?",
+      "subtitle": "Masukkan email Anda untuk mereset kata sandi",
+      "email": "Email",
+      "sendResetLink": "Kirim tautan reset",
+      "backToLogin": "Kembali ke masuk",
+      "linkSent": "Tautan terkirim",
+      "checkEmail": "Periksa email Anda untuk mereset kata sandi"
+    }
+  },
+  "audio": {
+    "play": "Putar",
+    "pause": "Jeda",
+    "mute": "Bisukan",
+    "unmute": "Nyalakan suara",
+    "notSupported": "Pemutaran audio tidak didukung di browser Anda"
+  }
+}
+
