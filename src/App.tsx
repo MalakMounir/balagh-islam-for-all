@@ -42,7 +42,7 @@ const App = () => (
       <TooltipProvider>
         <Toaster />
         <Sonner />
-        <BrowserRouter>
+        <BrowserRouter basename={import.meta.env.PROD ? "/balagh-islam-for-all" : ""}>
           <div className="mobile-frame bg-background w-full overflow-x-hidden">
             <Routes>
               {/* Public Routes */}
